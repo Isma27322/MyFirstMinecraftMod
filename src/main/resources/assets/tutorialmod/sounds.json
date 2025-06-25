@@ -1,0 +1,10 @@
+{
+  "music_disk.aint_that_some": {
+    "sounds": [
+      {
+        "name": "tutorialmod:music/aint_that_some",
+        "stream": true
+      }
+    ]
+  }
+}

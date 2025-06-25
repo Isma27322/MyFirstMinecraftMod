@@ -1,0 +1,10 @@
+{
+  "level": 3,
+  "uses": 2031,
+  "speed": 9.0,
+  "attack_damage_bonus": 4.0,
+  "enchantment_value": 15,
+  "repair_ingredient": {
+    "item": "tutorialmod:sapphire"
+  }
+}
